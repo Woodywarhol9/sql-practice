@@ -1,2 +1,2 @@
-# sql
-This repository contains code of sql
+# Problem Solving in SQL
+MySQL
