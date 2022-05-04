@@ -1,0 +1,4 @@
+SELECT ANIMAL_ID, NAME
+    FROM ANIMAL_INS
+        WHERE ANIMAL_TYPE = "Dog" AND NAME LIKE ("%EL%") -- %를 양쪽에 다 적용 가능.
+        ORDER BY NAME;
